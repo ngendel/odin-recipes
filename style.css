@@ -14,10 +14,13 @@ body{
 
 
 .title{
-    text-align: center;
+
     color: blue;
     background-color: crimson;
+    border: 1px dashed;
+    
 }
+
 p{
     
 

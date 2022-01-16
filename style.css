@@ -1,0 +1,46 @@
+button{
+    background-color: rgb(186, 214, 26);
+    font-size: 24px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+
+body{
+    font-family: sans-serif;
+}
+
+
+
+.title{
+    text-align: center;
+    color: blue;
+    background-color: crimson;
+}
+p{
+    
+
+}
+
+h4{
+    color: orchid;
+    background-color: black;
+    text-align: center;
+
+}
+
+.content{
+    text-align: center;
+}
+
+.butt2{
+    text-align: center;
+}
+
+.butt3{
+    text-align: right;
+}
+
+
+

@@ -27,6 +27,7 @@ p{
 }
 
 h4{
+    border: 2px solid green;
     color: orchid;
     background-color: black;
     text-align: center;
